@@ -38,9 +38,11 @@ El sistema cuenta con tres tipos de usuarios:
 •	Administrador
 
 •	Analista
+
 <img width="481" height="362" alt="image" src="https://github.com/user-attachments/assets/9d2054e8-98ed-493f-9ba2-f0ea4b70573e" />
 
 •	Solicitante
+
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/5168f4d3-ea66-499f-b67e-32993e803319" />
 
 
